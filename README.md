@@ -17,4 +17,4 @@
 Make sure you have a C++ compiler installed (e.g., `g++`):
 
 ```bash
-g++ -o gen_pass gen_pass.cpp
+g++ -o gen_pass main.cpp
